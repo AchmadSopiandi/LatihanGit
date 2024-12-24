@@ -1,0 +1,2 @@
+# LatihanGit
+hanya latihan git
